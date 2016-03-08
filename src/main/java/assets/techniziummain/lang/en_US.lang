@@ -1,0 +1,12 @@
+item.EnderDust.name=Ender Dust
+tile.ReEnderBlockDef.name=Reinforced Ender Block
+tile.PinkOreDef.name=Pink Ore
+tile.PinkBlockDef.name=Pink Block
+tile.ReCraftingTableDef.name=Reinforced Crafting Table
+tile.EnderBlockDef.name=Ender Block
+tile.EnderOreDef.name=Ender Ore
+item.ReFragment.name=Reinforcing Fragment
+tile.ReOreDef.name=Reinforcing Ore
+item.ReDust.name=Reinforcing Dust
+item.ReIngot.name=Reinforcing Ingot
+tile.EnderFurnace.name=Ender Furnace
